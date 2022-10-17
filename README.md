@@ -1,1 +1,6 @@
-# 2023
+# The 1st International Workshop on Ethics in Computer Security (EthiCS 2022)
+
+
+Co-located with the 7th IEEE European Symposium on Security and Privacy. June 10, 2022.
+
+Ethics in computer security research are increasingly critical. Security research may not only involve human subjects and user data, thus is subject to ethics considerations, but also assess the security of computer systems by breaking them (a.k.a offensive security research), which often raises ethical concerns. Unethical security research would cause significant harms to the society and in turn hurt the community. “Ethics in Computer Security Research” is still an under-studied area. Researchers may lack clear guidelines and resources. For instance, many research institutions still do not have IRB or the ethics-review board, and researchers are expected to properly handle ethical concerns on their own. Consequently, ethical concerns are not uncommon in security research. It is thus urgent for the community to provide ethical guidelines for international researchers and enforce ethics as a discipline. This workshop aims to provide an international forum for researchers, practitioners, and administrators, from security and other areas, to bring and exchange perspectives, lessons learned, and new insights into the guidelines and practices of ethical computer security research. As a result, it expects to help generate new guidelines for future ethical security research, to call for resources assisting security researchers, and to raise awareness of even implicit ethical concerns.
