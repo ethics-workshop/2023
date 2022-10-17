@@ -7,4 +7,4 @@
 Registration
 ============
 
-EthiCS will be organized in conjunction with IEEE EuroS&P 2022. Please register through the conference website: `IEEE EuroS&P 2022 <https://www.ieee-security.org/TC/EuroSP2022/>`__.
+EthiCS will be organized in conjunction with NDSS 2023. Please register through the conference website: `NDSS 2023 <https://www.ndss-symposium.org/ndss2023/>`__.
