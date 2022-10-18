@@ -135,7 +135,7 @@ Workshop co-chairs
 ==================
 - Kangjie Lu, University of Minnesota-Twin Cities 
 - Yang Zhang, CISPA Helmholtz Center for Information Security
-- Robert Jansen, U.S. Naval Lab
+- `Rob Jansen <https://www.robgjansen.com>`_, U.S. Naval Research Laboratory
 
 
 Program committee
