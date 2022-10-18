@@ -133,8 +133,8 @@ EthiCS is co-located with `The Network and Distributed System Security (NDSS'23)
 
 Workshop co-chairs
 ==================
-- Kangjie Lu, University of Minnesota-Twin Cities 
-- Yang Zhang, CISPA Helmholtz Center for Information Security
+- `Kangjie Lu <https://www-users.cse.umn.edu/~kjlu/>`_, University of Minnesota-Twin Cities 
+- `Yang Zhang <https://yangzhangalmo.github.io>`_, CISPA Helmholtz Center for Information Security
 - `Rob Jansen <https://www.robgjansen.com>`_, U.S. Naval Research Laboratory
 
 
