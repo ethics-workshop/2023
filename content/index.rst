@@ -65,6 +65,8 @@ EthiCS welcomes submissions on studies, proposals of protocols, reflections, ris
   
   + Risks, impact, fairness, etc.
 
+- Security research with a strong, extended component on ethical considerations and practices
+
 
 All papers will be published by the Internet Society.
 
