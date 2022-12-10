@@ -143,8 +143,19 @@ Workshop co-chairs
 Program committee
 =================
 
-TBA
+Currently confirmed members:
 
+- Ruba Abu-Salma, King’s College London
+- Gang Wang,	University of Illinois at Urbana-Champaign
+- Enrico	Mariconti,	University College London
+- Sara	Tehranipoor, West Virginia University
+- Allison	McDonald,	Boston University
+- Catherine	Meadows,	NRL
+- Bradley	Reaves,	University of Florida
+- Haixin	Duan,	Tsinghua University
+- Lenzini	Gabriele,	SnT/University of Luxembourg
+- Fengwei	Zhang, SUSTech
+- Neil	Gong,	Duke University
 
 Contacts
 ========
