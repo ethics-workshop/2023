@@ -75,10 +75,11 @@ Submissions
 ===========
 EthiCS encourages submissions of full papers and short papers from
 academia, industry, and government. Short papers must be up to 4
-pages and long papers must be up to 8 pages, including references.
+pages and long papers must be up to 8 pages, including references and
+appendices.
 All papers are in the NDSS conference proceedings format. Submitted
 papers must adhere to `the NDSS symposium proceeding template <https://www.ndss-symposium.org/ndss2023/templates>`__. 
-Submissions must be written in English and typeset in A4 format.
+Submissions must be written in English and typeset in US letter (not A4) format.
 We recommend using LaTeX, and suggest you first compile the supplied
 LaTeX source as is, checking that you obtain the same PDF as the one
 supplied. Then, write your paper into the LaTeX template, replacing
