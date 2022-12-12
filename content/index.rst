@@ -146,6 +146,7 @@ Program committee
 
 Currently confirmed members:
 
+- David Evans, University of Minnesota
 - Ruba Abu-Salma, King’s College London
 - Gang Wang,	University of Illinois at Urbana-Champaign
 - Enrico	Mariconti,	University College London
