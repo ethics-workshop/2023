@@ -109,8 +109,8 @@ Important dates
 .. role:: strike
    :class: strike
 
-- December 20, 2022 (AoE, UTC -12): Paper submission
-- January 20, 2023: Notification
+- :strike:`December 20, 2022` Extended to January 4, 2023 (AoE, UTC -12): Paper submission
+- January 25, 2023: Notification
 - February 3, 2023: Camera-ready paper
 - February 27, 2023: Workshop 
 
@@ -146,6 +146,7 @@ Program committee
 
 Currently confirmed members:
 
+- Frank Li, Georgia Institute of Technology
 - David Evans, University of Minnesota
 - Ruba Abu-Salma, King’s College London
 - Gang Wang,	University of Illinois at Urbana-Champaign
