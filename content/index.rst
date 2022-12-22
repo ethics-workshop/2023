@@ -147,7 +147,7 @@ Program committee
 Currently confirmed members:
 
 - Frank Li, Georgia Institute of Technology
-- David Evans, University of Minnesota
+- David Evans, University of Virginia
 - Ruba Abu-Salma, King’s College London
 - Gang Wang,	University of Illinois at Urbana-Champaign
 - Enrico	Mariconti,	University College London
