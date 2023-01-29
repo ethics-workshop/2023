@@ -8,7 +8,7 @@
 EthiCS 2023 Student Support
 ===========================
 
-**Sponsor: National Science of Foundation**
+**Sponsor: National Science Foundation**
 
 
 Travel grants are available for students to attend EthiCS 2023.
