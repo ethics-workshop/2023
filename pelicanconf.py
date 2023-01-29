@@ -42,6 +42,7 @@ MENUITEMS = [
         ('Program', 'program.html'),
         ('Keynotes', 'keynote.html'),
         ('Registration/Venue', 'reg.html'),
+        ('Student Support', 'student-support.html'),
         ]
 
 DEFAULT_PAGINATION = False
