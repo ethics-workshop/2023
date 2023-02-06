@@ -144,7 +144,6 @@ Workshop co-chairs
 Program committee
 =================
 
-Currently confirmed members:
 
 - Frank Li, Georgia Institute of Technology
 - David Evans, University of Virginia
@@ -153,8 +152,8 @@ Currently confirmed members:
 - Enrico	Mariconti,	University College London
 - Sara	Tehranipoor, West Virginia University
 - Allison	McDonald,	Boston University
-- Catherine	Meadows,	NRL
-- Bradley	Reaves,	University of Florida
+- Catherine	Meadows,	Naval Research Laboratory
+- Bradley	Reaves, North Carolina State University	
 - Haixin	Duan,	Tsinghua University
 - Lenzini	Gabriele,	SnT/University of Luxembourg
 - Fengwei	Zhang, SUSTech
