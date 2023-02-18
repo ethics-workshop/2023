@@ -8,7 +8,7 @@
 The 2nd International Workshop on Ethics in Computer Security (EthiCS 2023)
 ===========================================================================
 
-Co-located with `The Network and Distributed System Security (NDSS'23). <https://https://www.ndss-symposium.org/ndss2023/>`__ February 27, 2023.
+Co-located with `The Network and Distributed System Security (NDSS'23). <https://www.ndss-symposium.org/ndss2023/>`__ February 27, 2023.
 
 
 
